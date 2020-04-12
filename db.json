@@ -1,0 +1,35 @@
+{
+ "pessoas":[
+  {
+	"id":1,
+	"nome":"Beto Souza",
+	"dataNasc":"12/04/2004",
+	"email":"betom@hotmail.com","RA":"102215",
+	"cidade":"Presidente Prudente","curso":"Jogos digitais",
+	"opniao":"Não",
+	"dificuldade":"Difícil"
+  },
+  {
+	"id":2,
+	"nome":"Maria Clara Rodrigues Simão",
+	"dataNasc":"03/09/2000",
+	"email":"mariaclara.rgs@gmail.com",
+	"RA":"124789",
+	"cidade":"Presidente Prudente",
+	"curso":"Ciência da computação",
+	"opniao":"Sim",
+	"dificuldade":"Médio"
+  },
+  {
+	"id":3,
+	"nome":"Carlito Brito",
+	"dataNasc":"05/03/2000",
+	"email":"carlito@hotmail.com",
+	"RA":"312123",
+	"cidade":"Jaú",
+	"curso":"Sistemas para internet",
+	"opniao":"Não",
+	"dificuldade":"Difícil"
+  }
+]
+}
